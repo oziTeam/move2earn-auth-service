@@ -1,0 +1,14 @@
+# Dependencies
+node_modules
+
+# yarn error logs
+yarn-error.log
+
+# Environment varibales
+.env*
+!.env*.example
+
+# Code coverage
+coverage
+
+firebase-adminsdk-el9bk-dc68c909c7.json
